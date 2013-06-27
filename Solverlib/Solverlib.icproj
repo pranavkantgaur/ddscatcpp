@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Solverlib"
+	ProjectGUID="{E2F961FE-6710-4A46-A2CF-EEC61716E545}"
+	VCNestedProjectGUID="{C6F00EF9-5F51-41FB-B0E1-8E6D0B83F859}"
+	VCNestedProjectFileName="Solverlib.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

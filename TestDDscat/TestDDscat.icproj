@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="TestDDscat"
+	ProjectGUID="{A8EADCC8-B167-45AF-95F3-9B336E19B5CB}"
+	VCNestedProjectGUID="{9B2C178D-C65C-4205-98DA-6A36EE9B1AAD}"
+	VCNestedProjectFileName="TestDDscat.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

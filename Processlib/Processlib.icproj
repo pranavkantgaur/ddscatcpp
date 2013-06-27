@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Processlib"
+	ProjectGUID="{B6744C96-F0B6-4674-A1E5-B2C921EFD7EC}"
+	VCNestedProjectGUID="{D44B4CEE-C9CD-474F-8FE3-439271E2250E}"
+	VCNestedProjectFileName="Processlib.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

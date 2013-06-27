@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Readnf1"
+	ProjectGUID="{C9AF939A-0D37-477F-843B-4FC3C375714E}"
+	VCNestedProjectGUID="{0BCEB9C7-C956-4B2C-B8C8-687106024D61}"
+	VCNestedProjectFileName="Readnf1.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Targetlib"
+	ProjectGUID="{49FB60CB-0B1E-47FB-8263-CF60D5A1A83D}"
+	VCNestedProjectGUID="{D26EAA9B-A66F-437E-8738-6B18FB34E5A1}"
+	VCNestedProjectFileName="Targetlib.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

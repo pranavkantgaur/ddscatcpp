@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="CallTarget"
+	ProjectGUID="{23081DDD-8085-40C9-9310-6DC6246C3529}"
+	VCNestedProjectGUID="{76AD85E5-8D53-487F-931B-AFFD86D9E1AC}"
+	VCNestedProjectFileName="CallTarget.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
