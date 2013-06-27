@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Vtrlib"
+	ProjectGUID="{4B87FC4E-4BBC-4A71-A6B4-849D3CA598AF}"
+	VCNestedProjectGUID="{9827A01F-4603-40E4-894D-4C1475916DBB}"
+	VCNestedProjectFileName="Vtrlib.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

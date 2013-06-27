@@ -1,0 +1,12 @@
+#ifndef PROCESSLIB_GLOBAL_H
+#define PROCESSLIB_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(PROCESSLIB_LIBRARY)
+#  define PROCESSLIBSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define PROCESSLIBSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // PROCESSLIB_GLOBAL_H

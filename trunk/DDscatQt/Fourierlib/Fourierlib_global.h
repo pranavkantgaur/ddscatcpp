@@ -1,0 +1,12 @@
+#ifndef FOURIERLIB_GLOBAL_H
+#define FOURIERLIB_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(FOURIERLIB_LIBRARY)
+#  define FOURIERLIBSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define FOURIERLIBSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // FOURIERLIB_GLOBAL_H

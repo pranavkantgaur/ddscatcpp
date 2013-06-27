@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Postprocess"
+	ProjectGUID="{35C35189-1018-4C4C-B3B2-38606BCD552D}"
+	VCNestedProjectGUID="{5A564CF9-3403-4C82-8CDE-7AD121CA111A}"
+	VCNestedProjectFileName="Postprocess.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

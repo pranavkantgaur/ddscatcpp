@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Fourierlib"
+	ProjectGUID="{47C24884-4F4E-49AB-B7B8-EF0549B5C4DA}"
+	VCNestedProjectGUID="{0D269194-4C57-4447-92E6-2079F976D6B8}"
+	VCNestedProjectFileName="Fourierlib.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
